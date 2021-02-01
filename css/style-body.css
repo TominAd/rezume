@@ -1,0 +1,87 @@
+.about-me-cont{
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+
+}
+.profession{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 23px;
+}
+.name{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+.discription{
+    font-size: 14px;
+    font-weight: 400;   /*жирность шрифта*/
+    line-height: 24px;
+    margin-top: 24px;   /*верхний отступ*/
+     /*width: 415px; ширина текста выравнивание*/
+}
+.info-container{
+    margin-bottom: 65px;
+}
+.about-me-tytle{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+.projects-link{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.tech-name{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.dots{
+    color: #bebebe;
+    font-weight: 100;
+}
+.projacts-item{
+    font-weight: 700;
+    margin-left: 17px;
+}
+.project-contener{
+    margin-bottom: 55px;
+}
+.profession-tytle{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.profession-company{
+    color: #ff7011;
+}
+.profession-time{
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+   
+}
+.profesion-divider{
+    color: #000000;
+}
+.profession-duties{
+    margin-top: 14px;
+    margin-bottom: 30px;
+}
+.profession-duties-item{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
